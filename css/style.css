@@ -14,11 +14,11 @@ button {
 }
 .icon-1 {
   left: 0px;
-  transition: transform 300ms ease, left 300ms ease 400ms;
+  transition: transform 250ms ease, left 300ms ease 400ms;
 }
 .icon-2 {
   right: 0px;
-  transition: transform 300ms ease, right 300ms ease 400ms;
+  transition: transform 2500ms ease, right 300ms ease 400ms;
 }
 button:hover .icon-1 {
   transform: translateY(20px);
